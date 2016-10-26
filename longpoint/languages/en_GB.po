@@ -1,0 +1,3454 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Longpoint\n"
+"POT-Creation-Date: 2014-07-02 20:42+0800\n"
+"PO-Revision-Date: 2014-07-02 20:43+0800\n"
+"Last-Translator: \n"
+"Language-Team: RCHTHEME <mj@rchtheme.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! Page Not Found"
+msgstr ""
+
+#: 404.php:16
+msgid "Appears we took a wrong turn"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"<strong>Note:</strong> Some pages may not be available. Please check back "
+"soon for updates."
+msgstr ""
+
+#: 404.php:19
+msgid "Back to the Homepage"
+msgstr ""
+
+#: comments.php:16
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:16
+msgid "% Comment"
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:50
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:50
+msgid "<h3 class=\"general-title\">"
+msgstr ""
+
+#: comments.php:66
+msgid "Your email address will not be published."
+msgstr ""
+
+#: content.php:16 framework/shortcodes/blog.php:51
+msgid "Read more"
+msgstr ""
+
+#: framework/admin/classes/class.options_machine.php:577
+msgid "Last Backup : "
+msgstr ""
+
+#: framework/admin/front-end/options.php:43
+#: framework/admin/front-end/options.php:74
+msgid "Save All Changes"
+msgstr ""
+
+#: framework/admin/front-end/options.php:47
+msgid "Support"
+msgstr ""
+
+#: framework/admin/front-end/options.php:50
+msgid "Tutorials"
+msgstr ""
+
+#: framework/admin/front-end/options.php:75
+msgid "Options Reset"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:109
+msgid "Appears in the single post."
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:110
+msgid "Appears in the page."
+msgstr ""
+
+#: framework/admin/shortcodes/ajax.php:16
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:17
+msgid "Display"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:18
+msgid "Show on selected devices."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:19
+msgid "Animation"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:20
+msgid "When you scroll down on the page it seems triggers an animated element."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:21
+msgid "Extra Class"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:22
+msgid "Insert the column extra class."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:23
+msgid "Inline Style"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:24
+#: framework/metaboxes/metabox-parallax-section.php:151
+msgid "The style attribute can contain any CSS property. [ex: color: red;]"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:25
+msgid "Select Icon"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:26
+msgid "Click an icon to select,click again to deselect."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:27
+msgid "Spinning Icons"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:28
+msgid "Utilize this selection to get an icon to rotate."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:34
+msgid "Section"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:40
+msgid "Section Style"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:41
+msgid "Select the section style."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:43
+#: framework/admin/shortcodes/config.php:188
+#: framework/admin/shortcodes/config.php:261
+#: framework/admin/shortcodes/config.php:433
+#: framework/admin/shortcodes/config.php:722
+#: framework/admin/shortcodes/config.php:868
+#: framework/admin/shortcodes/config.php:882
+#: framework/admin/shortcodes/config.php:1016
+#: framework/admin/shortcodes/config.php:1028
+#: framework/admin/shortcodes/config.php:1115
+#: framework/admin/shortcodes/config.php:1164
+#: framework/admin/shortcodes/config.php:1523
+#: framework/admin/shortcodes/config.php:1858
+#: framework/admin/shortcodes/config.php:1972
+#: framework/admin/shortcodes/config.php:1996
+msgid "Default"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:44
+msgid "Feature 1"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:45
+msgid "Feature 2"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:46
+msgid "Feature 3"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:76
+msgid "Container"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:115
+msgid "Row"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:147
+msgid "Column"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:153
+msgid "Column Type"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:154
+msgid "Select the width of the column"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:156
+#: framework/metaboxes/metabox-page.php:49
+#: framework/metaboxes/metabox-parallax-section.php:29
+msgid "Full Width"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:157
+msgid "One Half"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:158
+msgid "One Third"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:159
+msgid "Two Thirds"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:160
+msgid "One Fourth"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:161
+msgid "Three Fourth"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:162
+msgid "One Sixth"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:163
+msgid "Five Sixth"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:164
+msgid "Column 1"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:165
+msgid "Column 2"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:166
+msgid "Column 3"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:167
+msgid "Column 4"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:168
+msgid "Column 5"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:169
+msgid "Column 6"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:170
+msgid "Column 7"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:171
+msgid "Column 8"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:172
+msgid "Column 9"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:173
+msgid "Column 10"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:174
+msgid "Column 11"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:175
+msgid "Column 12"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:180
+msgid "Column Content"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:181
+msgid "Insert the column content"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:185
+#: framework/admin/shortcodes/config.php:1025
+#: framework/admin/shortcodes/config.php:1969
+msgid "Text Align"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:186
+#: framework/admin/shortcodes/config.php:1970
+msgid "Select the text align."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:189
+#: framework/admin/shortcodes/config.php:262
+#: framework/admin/shortcodes/config.php:434
+#: framework/admin/shortcodes/config.php:723
+#: framework/admin/shortcodes/config.php:1029
+#: framework/admin/shortcodes/config.php:1247
+#: framework/admin/shortcodes/config.php:1524
+#: framework/admin/shortcodes/config.php:1859
+#: framework/admin/shortcodes/config.php:1973
+msgid "Left"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:190
+#: framework/admin/shortcodes/config.php:263
+#: framework/admin/shortcodes/config.php:435
+#: framework/admin/shortcodes/config.php:1030
+#: framework/admin/shortcodes/config.php:1525
+#: framework/admin/shortcodes/config.php:1860
+#: framework/admin/shortcodes/config.php:1974
+msgid "Center"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:191
+#: framework/admin/shortcodes/config.php:264
+#: framework/admin/shortcodes/config.php:436
+#: framework/admin/shortcodes/config.php:724
+#: framework/admin/shortcodes/config.php:1031
+#: framework/admin/shortcodes/config.php:1246
+#: framework/admin/shortcodes/config.php:1526
+#: framework/admin/shortcodes/config.php:1861
+#: framework/admin/shortcodes/config.php:1975
+msgid "Right"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:221
+msgid "Dividers & Lines"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:227
+msgid "Divider Type"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:228
+msgid "Select the type of the divier"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:230
+msgid "Divider"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:231
+msgid "Horizental Line"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:232
+msgid "Double Horizental Line"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:233
+msgid "Divider Dotted"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:234
+msgid "Double Divider Dotted"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:235
+msgid "Divider Dashed"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:236
+msgid "Double Divider Dashed"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:237
+msgid "Divider Shadow"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:238
+msgid "Divider Top"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:239
+msgid "Divider Text"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:240
+msgid "Double Divider Text"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:241
+msgid "Break Line"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:242
+msgid "Gap"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:253
+#: framework/admin/shortcodes/config.php:1088
+#: framework/admin/shortcodes/config.php:1156
+#: framework/admin/shortcodes/config.php:1232
+#: framework/admin/shortcodes/config.php:1964
+msgid "Text"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:254
+msgid "Insert the divider text"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:258 framework/post-types/team.php:77
+msgid "Position"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:259
+msgid "Select the text position"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:272
+msgid "Gap Height"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:273
+msgid "Insert the gap height"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:303
+msgid "Icon"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:316
+#: framework/admin/shortcodes/config.php:478
+#: framework/admin/shortcodes/config.php:879
+msgid "Size"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:317
+msgid "Select the icon size"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:319
+#: framework/admin/shortcodes/config.php:1019
+#: framework/admin/shortcodes/config.php:1118
+#: framework/admin/shortcodes/config.php:1999
+#: framework/admin/shortcodes/generator.php:200
+msgid "Normal"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:320
+#: framework/admin/shortcodes/config.php:482
+msgid "2X"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:321
+#: framework/admin/shortcodes/config.php:483
+msgid "3X"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:322
+#: framework/admin/shortcodes/config.php:484
+msgid "4X"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:323
+#: framework/admin/shortcodes/config.php:485
+msgid "5X"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:328
+msgid "Icon Custom Size"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:329
+msgid ""
+"If above size is not in effect for you set the custom size in pixel of the "
+"selected icon."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:338
+#: framework/admin/shortcodes/config.php:568
+#: framework/admin/shortcodes/config.php:653
+#: framework/admin/shortcodes/config.php:713
+#: framework/admin/shortcodes/config.php:811
+#: framework/admin/shortcodes/config.php:898
+#: framework/admin/shortcodes/config.php:1044
+#: framework/admin/shortcodes/config.php:1175
+#: framework/admin/shortcodes/config.php:1189
+#: framework/admin/shortcodes/config.php:1533
+#: framework/admin/shortcodes/config.php:1868
+#: framework/admin/shortcodes/config.php:2283
+msgid "Enable"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:339
+#: framework/admin/shortcodes/config.php:569
+#: framework/admin/shortcodes/config.php:654
+#: framework/admin/shortcodes/config.php:714
+#: framework/admin/shortcodes/config.php:812
+#: framework/admin/shortcodes/config.php:899
+#: framework/admin/shortcodes/config.php:1045
+#: framework/admin/shortcodes/config.php:1176
+#: framework/admin/shortcodes/config.php:1190
+#: framework/admin/shortcodes/config.php:1534
+#: framework/admin/shortcodes/config.php:1869
+#: framework/admin/shortcodes/config.php:2284
+msgid "Disable"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:344
+#: framework/admin/shortcodes/config.php:574
+#: framework/admin/shortcodes/config.php:817
+#: framework/admin/shortcodes/config.php:904
+#: framework/admin/shortcodes/config.php:1050
+#: framework/admin/shortcodes/config.php:1195
+msgid "Rotated & Flipped"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:345
+#: framework/admin/shortcodes/config.php:575
+#: framework/admin/shortcodes/config.php:818
+#: framework/admin/shortcodes/config.php:905
+#: framework/admin/shortcodes/config.php:1051
+#: framework/admin/shortcodes/config.php:1196
+msgid "To arbitrarily rotate and flip icons, use this option."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:349
+#: framework/admin/shortcodes/config.php:490
+#: framework/admin/shortcodes/config.php:579
+msgid "Circle container"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:350
+#: framework/admin/shortcodes/config.php:580
+msgid "If you enable this option, icon will be placed in a rounded box."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:351
+#: framework/admin/shortcodes/config.php:492
+#: framework/admin/shortcodes/config.php:581
+#: framework/admin/shortcodes/config.php:989
+#: framework/admin/shortcodes/config.php:1408
+#: framework/admin/shortcodes/config.php:1416
+#: framework/admin/shortcodes/generator.php:178
+msgid "On"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:352
+#: framework/admin/shortcodes/config.php:493
+#: framework/admin/shortcodes/config.php:582
+#: framework/admin/shortcodes/config.php:990
+#: framework/admin/shortcodes/generator.php:185
+msgid "Off"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:357
+#: framework/admin/shortcodes/config.php:587
+msgid "Icon Color"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:358
+#: framework/admin/shortcodes/config.php:363
+#: framework/admin/shortcodes/config.php:368
+#: framework/admin/shortcodes/config.php:499
+#: framework/admin/shortcodes/config.php:504
+#: framework/admin/shortcodes/config.php:509
+#: framework/admin/shortcodes/config.php:588
+#: framework/admin/shortcodes/config.php:593
+#: framework/admin/shortcodes/config.php:598
+#: framework/admin/shortcodes/config.php:910
+#: framework/admin/shortcodes/config.php:915
+#: framework/admin/shortcodes/config.php:920
+#: framework/admin/shortcodes/config.php:996
+#: framework/admin/shortcodes/config.php:1001
+#: framework/admin/shortcodes/config.php:1094
+#: framework/admin/shortcodes/config.php:1099
+#: framework/admin/shortcodes/config.php:1326
+#: framework/admin/shortcodes/config.php:1331
+#: framework/admin/shortcodes/config.php:1392
+#: framework/admin/shortcodes/config.php:1397
+#: framework/admin/shortcodes/config.php:1851
+#: framework/admin/shortcodes/config.php:1981
+msgid "Leave blank for default."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:362
+#: framework/admin/shortcodes/config.php:503
+#: framework/admin/shortcodes/config.php:592
+#: framework/admin/shortcodes/config.php:914
+#: framework/admin/shortcodes/config.php:1098
+#: framework/admin/shortcodes/config.php:1396
+msgid "Background Color"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:367
+#: framework/admin/shortcodes/config.php:508
+#: framework/admin/shortcodes/config.php:597
+#: framework/admin/shortcodes/config.php:919
+#: framework/admin/shortcodes/config.php:1391
+#: framework/admin/shortcodes/config.php:1850
+msgid "Border Color"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:372
+#: framework/admin/shortcodes/config.php:513
+#: framework/admin/shortcodes/config.php:602
+#: framework/admin/shortcodes/config.php:924
+#: framework/admin/shortcodes/config.php:1383
+#: framework/admin/shortcodes/config.php:1842
+msgid "Border Size"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:373
+#: framework/admin/shortcodes/config.php:514
+#: framework/admin/shortcodes/config.php:603
+#: framework/admin/shortcodes/config.php:925
+#: framework/admin/shortcodes/config.php:1384
+msgid "Sets the border size in pixel for the selected icon."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:405
+#: framework/admin/shortcodes/config.php:415
+msgid "Qoute"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:411
+msgid "Qoute Type"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:412
+msgid "Select the type of the qoute."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:414
+msgid "Line"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:420
+msgid "Qoute Content"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:421
+msgid "Insert the qoute content."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:425
+msgid "Author"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:426
+msgid "The name of the source."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:430
+#: framework/admin/shortcodes/config.php:1855
+msgid "Align"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:431
+msgid "Select the qoute align."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:467
+msgid "Dropcap"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:473
+msgid "Dropcaps character"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:474
+msgid "Insert the dropcap character."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:479
+msgid "Select the dropcap size"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:481
+msgid "1X"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:491
+msgid "If you enable this option, dropcap will be placed in a rounded box."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:498
+msgid "Character Color"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:547
+msgid "List"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:554
+#: framework/admin/shortcodes/config.php:645
+#: framework/admin/shortcodes/config.php:695
+#: framework/admin/shortcodes/config.php:773
+msgid "Content"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:555
+#: framework/admin/shortcodes/config.php:646
+msgid "List Item Content."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:556
+#: framework/admin/shortcodes/config.php:647
+msgid "Add Item"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:636
+msgid "List Group"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:643
+msgid "Heading"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:644
+msgid "List Item Heading."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:651
+msgid "Horizental"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:652
+msgid "Show list group in horizontal mode."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:686
+msgid "Tabs"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:693
+#: framework/admin/shortcodes/config.php:771
+#: framework/admin/shortcodes/config.php:1911
+#: framework/admin/shortcodes/config.php:1916
+#: framework/admin/shortcodes/config.php:2174
+#: framework/admin/shortcodes/config.php:2179
+#: framework/admin/shortcodes/config.php:2268
+#: framework/admin/shortcodes/config.php:2273
+#: framework/metaboxes/metabox-seo-page.php:17
+#: framework/metaboxes/metabox-seo-post.php:17
+#: framework/metaboxes/metabox-seo.php:17
+msgid "Title"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:694
+#: framework/admin/shortcodes/config.php:772
+msgid "Title of the tab."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:696
+#: framework/admin/shortcodes/config.php:774
+msgid "Add the tab Content."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:699
+#: framework/admin/shortcodes/config.php:777
+msgid "Add Tab"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:703
+msgid "Vertical"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:704
+msgid "Show tabs in vertical mode."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:705
+#: framework/admin/shortcodes/config.php:783
+#: framework/admin/shortcodes/config.php:1255
+#: framework/admin/shortcodes/config.php:1337
+#: framework/admin/shortcodes/config.php:1345
+#: framework/admin/shortcodes/config.php:1595
+#: framework/admin/shortcodes/config.php:1603
+#: framework/admin/shortcodes/config.php:1666
+#: framework/admin/shortcodes/config.php:1918
+#: framework/admin/shortcodes/config.php:2181
+#: framework/admin/shortcodes/config.php:2223
+#: framework/admin/shortcodes/config.php:2275
+#: framework/metaboxes/metabox-page.php:54
+#: framework/metaboxes/metabox-page.php:65
+#: framework/metaboxes/metabox-page.php:76
+#: framework/metaboxes/metabox-parallax-section.php:34
+msgid "Yes"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:706
+#: framework/admin/shortcodes/config.php:784
+#: framework/admin/shortcodes/config.php:1256
+#: framework/admin/shortcodes/config.php:1338
+#: framework/admin/shortcodes/config.php:1346
+#: framework/admin/shortcodes/config.php:1596
+#: framework/admin/shortcodes/config.php:1604
+#: framework/admin/shortcodes/config.php:1667
+#: framework/admin/shortcodes/config.php:1919
+#: framework/admin/shortcodes/config.php:2182
+#: framework/admin/shortcodes/config.php:2224
+#: framework/admin/shortcodes/config.php:2276
+#: framework/metaboxes/metabox-page.php:55
+#: framework/metaboxes/metabox-page.php:66
+#: framework/metaboxes/metabox-page.php:77
+#: framework/metaboxes/metabox-parallax-section.php:35
+msgid "No"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:711
+msgid "Justified"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:712
+msgid "Make tabs or pills equal widths of their parent."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:719
+msgid "Tabs align"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:720
+msgid "Select the tabs align."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:729
+#: framework/admin/shortcodes/config.php:789
+msgid "Active tab"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:730
+#: framework/admin/shortcodes/config.php:790
+msgid "Select which tab is open by default."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:764
+msgid "Accordion"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:781
+msgid "Toggle"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:782
+msgid "Show accordion in toggle mode."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:798
+msgid "Select accordion open icon"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:804
+msgid "Select accordion close icon"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:849
+#: framework/admin/shortcodes/config.php:1275
+msgid "Button"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:855
+msgid "Button Text"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:856
+msgid "Add the button's text."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:860
+msgid "Button URL"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:861
+msgid "Add the button's url."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:865
+#: framework/metaboxes/metabox-parallax-section.php:149
+msgid "Style"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:866
+msgid "Select the button style"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:869
+msgid "Outer"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:870
+msgid "Dark Blue"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:871
+msgid "Blue"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:872
+msgid "Green"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:873
+msgid "Orange"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:874
+msgid "Red"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:880
+msgid "Select the button size"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:883
+msgid "Large"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:884
+msgid "Medium"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:885
+msgid "Small"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:909
+#: framework/admin/shortcodes/config.php:1000
+#: framework/admin/shortcodes/config.php:1093
+#: framework/admin/shortcodes/config.php:1980
+msgid "Text Color"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:958
+#: framework/admin/shortcodes/config.php:964
+msgid "Heading Title"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:965
+msgid "Add the heading's title."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:969
+msgid "Second Heading Title"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:970
+msgid "Add the small heading's title."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:974
+msgid "Tag Name"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:975
+msgid "Select the tag name."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:977
+msgid "H1"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:978
+msgid "H2"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:979
+msgid "H3"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:980
+msgid "H4"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:981
+msgid "H5"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:982
+msgid "H6"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:987
+msgid "Pattern"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:988
+msgid "Utilize this option to set heading with pattern."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:995
+msgid "Pattern Color"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1005
+#: framework/admin/shortcodes/config.php:1104
+#: framework/admin/shortcodes/config.php:1985
+msgid "Font Size"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1006
+#: framework/admin/shortcodes/config.php:1105
+#: framework/admin/shortcodes/config.php:1986
+msgid "Sets the font size in pixel."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1013
+#: framework/admin/shortcodes/config.php:1112
+#: framework/admin/shortcodes/config.php:1993
+msgid "Font Weight"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1014
+#: framework/admin/shortcodes/config.php:1113
+#: framework/admin/shortcodes/config.php:1994
+msgid "Select the font weight"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1017
+#: framework/admin/shortcodes/config.php:1116
+#: framework/admin/shortcodes/config.php:1997
+msgid "Bold"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1018
+#: framework/admin/shortcodes/config.php:1117
+#: framework/admin/shortcodes/config.php:1998
+msgid "Bolder"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1020
+#: framework/admin/shortcodes/config.php:1119
+#: framework/admin/shortcodes/config.php:2000
+msgid "Lighter"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1026
+msgid "Select the text align"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1082
+msgid "Highlight Text"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1089
+msgid "Add the highlight text."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1150
+msgid "Notification"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1157
+msgid "Add the notification text."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1161
+msgid "Notification Type"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1162
+msgid "Select the notification type."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1165
+msgid "Success"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1166
+msgid "Warning"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1167
+msgid "Information"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1168
+msgid "Error"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1173
+msgid "Disable Closeable"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1174
+msgid "Utilize this option to hide close button."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1226
+msgid "Tooltip"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1233
+msgid "Add the text."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1237
+msgid "Tooltip Text"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1238
+msgid "Add the tooltip text."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1242
+msgid "Tooltip Position"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1243
+msgid "Select the tooltip position."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1245
+#: framework/shortcodes/divider.php:375
+msgid "Top"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1248
+msgid "Bottom"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1253
+msgid "Popover"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1254
+msgid "Open tooltip on link click."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1261
+msgid "Text Link"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1262
+msgid "You can optionally link the tooltip text to a webpage."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1266
+msgid "Tooltip Title"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1267
+msgid "Add the tooltip title."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1271
+msgid "Link Type"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1272
+msgid "Select the text link type."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1274
+msgid "Link"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1305
+msgid "Progress bar"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1311
+msgid "Progress Bar Text"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1312
+msgid "Text will show up on progess bar."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1316
+msgid "Filled Area Percentage"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1317
+msgid "Sets the filled area in percentage."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1325
+msgid "Filled Color"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1330
+msgid "Unfilled Color"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1335
+msgid "Striped"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1336
+msgid "Uses a gradient to create a striped effect. Not available in IE8."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1343
+msgid "Active Striped Animation"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1344
+msgid ""
+"Active this to animate the stripes right to left. Not available in IE9 and "
+"below."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1377
+msgid "Content Box"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1401
+#: framework/metaboxes/metabox-parallax-section.php:40
+msgid "Background Image"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1402
+msgid "Set the background Image."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1406
+msgid "Stretch Background"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1407
+msgid "Stretch background image to fit the container."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1409
+#: framework/admin/shortcodes/config.php:1417
+msgid "OFF"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1414
+msgid "Fixed Background"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1415
+msgid "Keep background image fixed during scroll."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1422
+#: framework/metaboxes/metabox-parallax-section.php:86
+msgid "Background Speed"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1423
+msgid ""
+"Set it If you want background to scroll at a different speed. ( Between 0.5 "
+"till 2 - 1 is normal speed )"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1431
+msgid "Background Pattern"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1432
+msgid ""
+"Select a background pattern.This option only works when background image "
+"field is empty."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1436
+msgid "Padding Top and Bottom"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1437
+#: framework/admin/shortcodes/config.php:1445
+msgid "Sets the padding size in pixel."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1444
+msgid "Padding Left and Right"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1452
+msgid "Min Height"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1453
+msgid "Sets the minimum height in pixel."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1486
+msgid "Table"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1495
+msgid "Row Numebr"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1496
+msgid "Insert the row number."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1504
+msgid "Column Number"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1505
+msgid "Insert the column number."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1510
+msgid "Table Style"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1511
+msgid "Select the table style."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1513
+msgid "Style 1"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1514
+msgid "Style 2"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1515
+msgid "Style 3"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1520
+msgid "Cell Align"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1521
+msgid "Select the cell text align."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1531
+msgid "Cell Hover Effect"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1532
+msgid "Utilize this option to enable a hover state on table rows."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1565
+msgid "Vimeo"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1571
+#: framework/admin/shortcodes/config.php:1642
+msgid "Video ID"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1572
+msgid ""
+"Insert video ID. <br />ex: Video ID for http://vimeo.com/88896418 is 88896418"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1577
+#: framework/admin/shortcodes/config.php:1648
+#: framework/admin/shortcodes/config.php:1741
+#: framework/admin/shortcodes/config.php:1750
+#: framework/admin/shortcodes/config.php:1813
+msgid "Width"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1578
+#: framework/admin/shortcodes/config.php:1649
+#: framework/admin/shortcodes/config.php:1751
+#: framework/admin/shortcodes/config.php:1814
+msgid "Sets the width in pixel."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1585
+#: framework/admin/shortcodes/config.php:1656
+#: framework/admin/shortcodes/config.php:1758
+#: framework/admin/shortcodes/config.php:1821
+msgid "Height"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1586
+#: framework/admin/shortcodes/config.php:1657
+#: framework/admin/shortcodes/config.php:1759
+#: framework/admin/shortcodes/config.php:1822
+msgid "Sets the height in pixel."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1593
+#: framework/admin/shortcodes/config.php:1664
+msgid "Auto Play"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1594
+#: framework/admin/shortcodes/config.php:1665
+msgid "Set to yes to make video autoplaying."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1601
+msgid "SSL Protocole"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1602
+msgid "Set to yes to make url HTTPS."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1636
+msgid "Youtube"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1643
+msgid ""
+"Insert video ID. <br />ex: Video ID for https://www.youtube.com/watch?"
+"v=2AJJFNMWEkM is 2AJJFNMWEkM"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1699
+msgid "Google Map"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1705
+msgid "Latitude"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1711
+msgid "Longitude"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1717
+msgid "Map Type"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1718
+msgid "Select the map type."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1720
+msgid "Road Map"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1721
+msgid "Satellite"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1722
+msgid "Terrain"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1723
+msgid "Hybrid"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1728
+#: framework/shortcodes/contact_form.php:41
+msgid "Message"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1733
+msgid "Width Unit"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1734
+msgid "Set Width in Pixel or Percent."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1735
+msgid "%"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1736
+msgid "px"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1742
+msgid "Sets the width in percent."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1766
+msgid "Zoom Level"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1767
+msgid "Sets the zoom level."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1801
+#: framework/admin/shortcodes/config.php:1807
+msgid "Image"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1808
+msgid "Upload an image to display in the frame."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1829
+msgid "Frame style type"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1830
+msgid "Select the frame style type."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1832
+#: framework/admin/shortcodes/generator.php:72
+msgid "None"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1833
+msgid "Circle"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1834
+msgid "Rounded"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1835
+msgid "Border"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1836
+msgid "Shadow"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1837
+msgid "Glow"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1843
+msgid "Sets the border size in pixel."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1856
+msgid "Select the image align."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1866
+msgid "Lightbox"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1867
+msgid "Show image in Lightbox."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1874
+msgid "Image Alt Text"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1875
+msgid "The alt attribute provides alternative information for the image."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1905
+#: framework/post-types/testimonial.php:16
+#: framework/post-types/testimonial.php:17
+#: framework/post-types/testimonial.php:28
+msgid "Testimonial"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1912
+msgid "Title of the testimonials."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1917
+msgid "Display Testimonials Title."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1924
+#: framework/admin/shortcodes/config.php:2036
+#: framework/admin/shortcodes/config.php:2125
+#: framework/admin/shortcodes/config.php:2229
+msgid "Count"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1925
+msgid "How many testimonial you would like to show?"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1958
+msgid "Text Block"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:1965
+msgid "Add the paragraph text."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2030
+msgid "Team Members"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2037
+msgid "How many member you would like to show?"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2044
+#: framework/admin/shortcodes/config.php:2133
+msgid "Description Limit"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2045
+#: framework/admin/shortcodes/config.php:2134
+msgid "How many description character you would like to display?"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2078
+msgid "Pricing Table"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2087
+msgid "Column Count"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2088
+msgid "Insert the column count."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2119
+msgid "Blog"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2126
+msgid "How many post you would like to show?"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2168
+msgid "Contact"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2175
+msgid "Title of the contact form."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2180
+msgid "Display contact form title."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2215
+#: framework/post-types/portfolio.php:17 framework/post-types/portfolio.php:18
+#: framework/post-types/portfolio.php:29
+msgid "Portfolio"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2221
+msgid "Display Filter"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2222
+msgid "Display Portfolio Filter."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2230
+msgid "How many portfolio you would like to show?"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2262
+msgid "Gallery"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2269
+msgid "Title of the gallery."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2274
+msgid "Display gallery title."
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2281
+msgid "Slideshow"
+msgstr ""
+
+#: framework/admin/shortcodes/config.php:2282
+msgid "Display lightbox slideshow."
+msgstr ""
+
+#: framework/admin/shortcodes/dialog.php:20
+msgid "Shortcode not found."
+msgstr ""
+
+#: framework/admin/shortcodes/dialog.php:30
+msgid "Back"
+msgstr ""
+
+#: framework/admin/shortcodes/dialog.php:34
+msgid "Insert"
+msgstr ""
+
+#: framework/admin/shortcodes/dialog.php:41
+msgid "Select a shortcode:"
+msgstr ""
+
+#: framework/admin/shortcodes/dialog.php:52
+msgid "Selected icon: "
+msgstr ""
+
+#: framework/admin/shortcodes/dialog.php:53
+msgid "ERROR: please fill the required fields."
+msgstr ""
+
+#: framework/admin/shortcodes/dialog.php:54
+msgid "Are you sure?"
+msgstr ""
+
+#: framework/admin/shortcodes/dialog.php:55
+msgid "You need at least one item."
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:73
+msgid "Attention Seekers"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:74
+msgid "bounce"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:75
+msgid "flash"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:76
+msgid "pulse"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:77
+msgid "rubberBand"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:78
+msgid "shake"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:79
+msgid "swing"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:80
+msgid "tada"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:81
+msgid "wobble"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:83
+msgid "Bouncing Entrances"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:84
+msgid "bounceIn"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:85
+msgid "bounceInDown"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:86
+msgid "bounceInLeft"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:87
+msgid "bounceInRight"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:88
+msgid "bounceInUp"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:90
+msgid "Bouncing Exits"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:91
+msgid "bounceOut"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:92
+msgid "bounceOutDown"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:93
+msgid "bounceOutLeft"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:94
+msgid "bounceOutRight"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:95
+msgid "bounceOutUp"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:97
+msgid "Fading Entrances"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:98
+msgid "fadeIn"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:99
+msgid "fadeInDown"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:100
+msgid "fadeInDownBig"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:101
+msgid "fadeInLeft"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:102
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:103
+msgid "fadeInRight"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:104
+msgid "fadeInRightBig"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:105
+msgid "fadeInUp"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:106
+msgid "fadeInUpBig"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:108
+msgid "Fading Exits"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:109
+msgid "fadeOut"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:110
+msgid "fadeOutDown"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:111
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:112
+msgid "fadeOutLeft"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:113
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:114
+msgid "fadeOutRight"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:115
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:116
+msgid "fadeOutUp"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:117
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:119
+msgid "Flippers"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:120
+msgid "flip"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:121
+msgid "flipInX"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:122
+msgid "flipInY"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:123
+msgid "flipOutX"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:124
+msgid "flipOutY"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:126
+msgid "Lightspeed"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:127
+msgid "lightSpeedIn"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:128
+msgid "lightSpeedOut"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:130
+msgid "Rotating Entrances"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:131
+msgid "rotateIn"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:132
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:133
+msgid "rotateInDownRight"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:134
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:135
+msgid "rotateInUpRight"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:137
+msgid "Rotating Exits"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:138
+msgid "rotateOut"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:139
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:140
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:141
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:142
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:144
+msgid "Sliders"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:145
+msgid "slideInDown"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:146
+msgid "slideInLeft"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:147
+msgid "slideInRight"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:148
+msgid "slideOutLeft"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:149
+msgid "slideOutRight"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:150
+msgid "slideOutUp"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:152
+msgid "Specials"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:153
+msgid "hinge"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:154
+msgid "rollIn"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:155
+msgid "rollOut"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:201
+msgid "Rotate 90"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:202
+msgid "Rotate 180"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:203
+msgid "Rotate 270"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:204
+msgid "Flip Horizontally"
+msgstr ""
+
+#: framework/admin/shortcodes/generator.php:205
+msgid "Flip Vertically"
+msgstr ""
+
+#: framework/admin/shortcodes/shortcodes.php:68
+msgid "Insert Shortcodes"
+msgstr ""
+
+#: framework/functions.php:67
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/functions.php:68
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/functions.php:74
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/init.php:122 framework/plugins/plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/init.php:123 framework/plugins/plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/init.php:124 framework/plugins/plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/init.php:125
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/init.php:126 framework/plugins/plugin-activation.php:200
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/init.php:127 framework/plugins/plugin-activation.php:201
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/init.php:128 framework/plugins/plugin-activation.php:202
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/init.php:129 framework/plugins/plugin-activation.php:203
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/init.php:130 framework/plugins/plugin-activation.php:204
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/init.php:131 framework/plugins/plugin-activation.php:205
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/init.php:132 framework/plugins/plugin-activation.php:206
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/init.php:133 framework/plugins/plugin-activation.php:207
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/init.php:134 framework/plugins/plugin-activation.php:208
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/init.php:135 framework/plugins/plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/init.php:136 framework/plugins/plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/init.php:137 framework/plugins/plugin-activation.php:212
+#: framework/plugins/plugin-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/init.php:138
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/metabox.php:430
+msgid "Select Option"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:25
+msgid "Page Options"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:35
+msgid "Custom Page Title"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:37
+msgid ""
+"If left Blank the global title which you defined in masterkey settings will "
+"be used. You can optionally use a different page title in banner section "
+"from this option."
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:42
+msgid "Page Sub Title"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:44
+msgid "Set Page Sub Title"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:50
+msgid "Full width content of the page."
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:60
+msgid "Show Header"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:61
+msgid "Show/Hide header."
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:71
+msgid "Show Sidebar"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:72
+msgid "Show/Hide sidebar."
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:82
+msgid "Select Sidebar"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:89
+msgid "Header Background Image"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:91
+msgid "Choose a background image for header."
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:96
+#: framework/metaboxes/metabox-parallax-section.php:66
+msgid "Background Repeat Options"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:100
+#: framework/metaboxes/metabox-parallax-section.php:70
+msgid "No Repeat"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:101
+msgid "Repeat"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:102
+#: framework/metaboxes/metabox-parallax-section.php:71
+msgid "Cover"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:107
+msgid "Header Background Attachment"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:111
+#: framework/metaboxes/metabox-parallax-section.php:80
+msgid "Scroll"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:112
+#: framework/metaboxes/metabox-parallax-section.php:81
+msgid "Fixed"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:117
+msgid "Header Background Speed"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:118
+msgid ""
+"Set it If you want background to scroll at a different speed. ( Between 0.5 "
+"- 2. 1 is normal speed ) "
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:124
+msgid "Header Background color"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:125
+#: framework/metaboxes/metabox-parallax-section.php:94
+msgid ""
+"You can set a custom background color using the color picker, or enter a hex "
+"value (i.e #ff0000)."
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:131
+msgid "Header Title color"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:132
+msgid ""
+"You can set a custom title and sub title color using the color picker, or "
+"enter a hex value (i.e #ff0000)."
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:138
+msgid "Header Height"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:139
+msgid "Change the height(by pixel) of the header."
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:145
+msgid "Page Custom Class"
+msgstr ""
+
+#: framework/metaboxes/metabox-page.php:151
+msgid "Revolution Slider Shortcode"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:8
+msgid "Parallax Section Options"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:18
+msgid "Show Title"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:19
+msgid "Show/Hide parallax section title."
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:23
+msgid "Show"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:24
+msgid "Hide"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:30
+msgid "Full width content of parallax section"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:42
+msgid "Choose a background image for this section."
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:47
+msgid "Pattern Background"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:51
+msgid "Dotted 1"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:52
+msgid "Dotted 2"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:53
+msgid "Solid 90% Opacity"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:54
+msgid "Solid 80% Opacity"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:55
+msgid "Solid 70% Opacity"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:56
+msgid "Solid 60% Opacity"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:57
+msgid "Solid 50% Opacity"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:58
+msgid "Solid 40% Opacity"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:59
+msgid "Solid 30% Opacity"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:60
+msgid "Solid 20% Opacity"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:61
+msgid "Solid 10% Opacity"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:76
+msgid "Background Attachment"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:87
+msgid ""
+"Set it If you want background to scroll at a different speed. ( Between 0.5 "
+"till 2 - 1 is normal speed ) "
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:93
+msgid "Background color"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:100
+msgid "Parallax Section Size"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:101
+msgid "Change the max height(by pixel) of the parallax section."
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:107
+msgid "Title Bar Heading Color"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:108
+msgid ""
+"This is for the font color for the heading tag used in the title. Use color "
+"picker or enter a hex value (i.e #ff0000)."
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:114
+msgid "Heading Tag Color"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:115
+msgid ""
+"Sets custom color to all h1-h6 tags in this section. Use color picker or "
+"enter a hex value (i.e #ff0000)."
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:121
+msgid "Font Color"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:122
+msgid ""
+"Sets custom color to all body font in this section. Use color picker or "
+"enter a hex value (i.e #ff0000)."
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:128
+msgid "Link Color"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:129
+msgid ""
+"Sets custom color to all links for this section. Use color picker or enter a "
+"hex value (i.e #ff0000)."
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:135
+msgid "Link Hover Color"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:136
+msgid ""
+"Sets custom color to all links hover state for this section. Use color "
+"picker or enter a hex value (i.e #ff0000)."
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:142
+msgid "Class"
+msgstr ""
+
+#: framework/metaboxes/metabox-parallax-section.php:144
+msgid "Insert the extra class."
+msgstr ""
+
+#: framework/metaboxes/metabox-seo-page.php:19
+#: framework/metaboxes/metabox-seo-post.php:19
+#: framework/metaboxes/metabox-seo.php:19
+msgid ""
+"Google typically displays the first 50-60 characters of a title tag, or as "
+"many characters as will fit into a 512-pixel display. "
+msgstr ""
+
+#: framework/metaboxes/metabox-seo-page.php:25
+#: framework/metaboxes/metabox-seo-post.php:25
+#: framework/metaboxes/metabox-seo.php:25
+#: framework/metaboxes/metabox-slider.php:23
+#: framework/post-types/portfolio.php:84
+msgid "Description"
+msgstr ""
+
+#: framework/metaboxes/metabox-seo-page.php:27
+#: framework/metaboxes/metabox-seo-post.php:27
+#: framework/metaboxes/metabox-seo.php:27
+msgid "The description should optimally be between 150-160 characters."
+msgstr ""
+
+#: framework/metaboxes/metabox-seo-page.php:33
+#: framework/metaboxes/metabox-seo-post.php:33
+#: framework/metaboxes/metabox-seo.php:33
+msgid "Keywords"
+msgstr ""
+
+#: framework/metaboxes/metabox-seo-page.php:34
+#: framework/metaboxes/metabox-seo-post.php:34
+#: framework/metaboxes/metabox-seo.php:34
+msgid "Please Enter your keywords. Separate them with a , (Comma)."
+msgstr ""
+
+#: framework/metaboxes/metabox-slider.php:8
+msgid "Elastic Slider Options"
+msgstr ""
+
+#: framework/metaboxes/metabox-slider.php:17
+msgid "Alternative Title"
+msgstr ""
+
+#: framework/metaboxes/metabox-slider.php:29
+msgid "Button Image"
+msgstr ""
+
+#: framework/metaboxes/metabox-slider.php:36
+msgid "Button Title"
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:17
+msgid "Member Position"
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:18
+msgid "Please enter team member's Position in the company."
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:24
+msgid "Email Address"
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:25
+msgid "Please Enter a Valid Email"
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:31
+msgid "Facebook"
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:32
+msgid "Please Enter Facebook URL (include http://)."
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:38
+msgid "Twitter"
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:39
+msgid "Please Enter Twitter URL (include http://)."
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:45
+msgid "Google Plus"
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:46
+msgid "Please Enter Google Plus URL (include http://)."
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:53
+msgid "Linked In"
+msgstr ""
+
+#: framework/metaboxes/metabox-team.php:54
+msgid "Please Enter Linked In URL (include http://)."
+msgstr ""
+
+#: framework/metaboxes/metabox-testimonial.php:17
+msgid "Testimonial Author Position"
+msgstr ""
+
+#: framework/metaboxes/metabox-testimonial.php:24
+msgid "Testimonial Author Company Name"
+msgstr ""
+
+#: framework/metaboxes/metabox-testimonial.php:31
+msgid "URL to Testimonial Author's Website (optional)"
+msgstr ""
+
+#: framework/metaboxes/metabox-testimonial.php:32
+msgid "include http://"
+msgstr ""
+
+#: framework/plugins/importer/parsers.php:42
+#: framework/plugins/importer/parsers.php:72
+#: framework/plugins/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/plugins/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: framework/plugins/importer/parsers.php:84
+#: framework/plugins/importer/parsers.php:89
+#: framework/plugins/importer/parsers.php:279
+#: framework/plugins/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:134
+#: framework/plugins/importer/wordpress-importer.php:143
+#: framework/plugins/importer/wordpress-importer.php:194
+#: framework/plugins/importer/wordpress-importer.php:198
+#: framework/plugins/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:511
+#: framework/plugins/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: framework/plugins/importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:213
+#: framework/plugins/plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:544
+#: framework/plugins/plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1290
+#: framework/plugins/plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1312
+#: framework/plugins/plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2065
+#: framework/plugins/plugin-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2065
+#: framework/plugins/plugin-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/plugins/plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/post-types/parallax-section.php:19
+msgid "Parallax Sections"
+msgstr ""
+
+#: framework/post-types/parallax-section.php:20
+msgid "Parallax Section"
+msgstr ""
+
+#: framework/post-types/parallax-section.php:21
+#: framework/post-types/parallax-section.php:22
+msgid "Add New section"
+msgstr ""
+
+#: framework/post-types/parallax-section.php:23
+msgid "Edit section"
+msgstr ""
+
+#: framework/post-types/parallax-section.php:24
+msgid "New section"
+msgstr ""
+
+#: framework/post-types/parallax-section.php:25
+msgid "View section"
+msgstr ""
+
+#: framework/post-types/parallax-section.php:26
+msgid "Search section"
+msgstr ""
+
+#: framework/post-types/parallax-section.php:27
+msgid "No Image found"
+msgstr ""
+
+#: framework/post-types/parallax-section.php:28
+msgid "No Images found in Trash"
+msgstr ""
+
+#: framework/post-types/portfolio.php:19
+msgid "Add New"
+msgstr ""
+
+#: framework/post-types/portfolio.php:20
+msgid "Add New Portfolio"
+msgstr ""
+
+#: framework/post-types/portfolio.php:21
+msgid "Edit Portfolio"
+msgstr ""
+
+#: framework/post-types/portfolio.php:22
+msgid "New Portfolio"
+msgstr ""
+
+#: framework/post-types/portfolio.php:23
+msgid "View Portfolio"
+msgstr ""
+
+#: framework/post-types/portfolio.php:24
+msgid "Search Portfolios"
+msgstr ""
+
+#: framework/post-types/portfolio.php:25
+msgid "No portfolios found"
+msgstr ""
+
+#: framework/post-types/portfolio.php:26
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: framework/post-types/portfolio.php:51
+msgid "Portfolio Categories"
+msgstr ""
+
+#: framework/post-types/portfolio.php:52
+msgid "Portfolio Category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:53
+msgid "Search Categories"
+msgstr ""
+
+#: framework/post-types/portfolio.php:54
+msgid "Popular Categories"
+msgstr ""
+
+#: framework/post-types/portfolio.php:55
+msgid "All Categories"
+msgstr ""
+
+#: framework/post-types/portfolio.php:58
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:59
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:60
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:61
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: framework/post-types/portfolio.php:62
+msgid "Separate Portfolio category with commas"
+msgstr ""
+
+#: framework/post-types/portfolio.php:63
+msgid "Add or remove portfolio category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:64
+msgid "Choose from the most used portfolio category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:82
+msgctxt "column name"
+msgid "Portfolio Name"
+msgstr ""
+
+#: framework/post-types/portfolio.php:83
+msgid "Categories"
+msgstr ""
+
+#: framework/post-types/portfolio.php:85 framework/post-types/team.php:79
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/post-types/slider.php:19 framework/post-types/slider.php:20
+msgid "Elastic Slider"
+msgstr ""
+
+#: framework/post-types/slider.php:21 framework/post-types/slider.php:22
+msgid "Add New Elastic Slider"
+msgstr ""
+
+#: framework/post-types/slider.php:23
+msgid "Edit Elastic Slider"
+msgstr ""
+
+#: framework/post-types/slider.php:24
+msgid "New Elastic Slider"
+msgstr ""
+
+#: framework/post-types/slider.php:25
+msgid "View Elastic Slider"
+msgstr ""
+
+#: framework/post-types/slider.php:26
+msgid "Search Elastic Sliders"
+msgstr ""
+
+#: framework/post-types/slider.php:27
+msgid "No Elastic Slider found"
+msgstr ""
+
+#: framework/post-types/slider.php:28
+msgid "No Elastic Sliders found in Trash"
+msgstr ""
+
+#: framework/post-types/slider.php:51
+msgid "Slider Groups"
+msgstr ""
+
+#: framework/post-types/slider.php:52
+msgid "Slider Group"
+msgstr ""
+
+#: framework/post-types/slider.php:53
+msgid "Search Slider Groups"
+msgstr ""
+
+#: framework/post-types/slider.php:54
+msgid "Popular Slider Groups"
+msgstr ""
+
+#: framework/post-types/slider.php:55
+msgid "All Slider Groups"
+msgstr ""
+
+#: framework/post-types/slider.php:58
+msgid "Edit Slider Group"
+msgstr ""
+
+#: framework/post-types/slider.php:59
+msgid "Update Slider Group"
+msgstr ""
+
+#: framework/post-types/slider.php:60
+msgid "Add New Slider Group"
+msgstr ""
+
+#: framework/post-types/slider.php:61
+msgid "New Slider Group Name"
+msgstr ""
+
+#: framework/post-types/slider.php:62
+msgid "Separate Slider Group with commas"
+msgstr ""
+
+#: framework/post-types/slider.php:63
+msgid "Add or remove Slider Group"
+msgstr ""
+
+#: framework/post-types/slider.php:64
+msgid "Choose from the most used Slider Group"
+msgstr ""
+
+#: framework/post-types/team.php:15 framework/post-types/team.php:16
+#: framework/post-types/team.php:28
+msgid "Team"
+msgstr ""
+
+#: framework/post-types/team.php:15 framework/post-types/testimonial.php:15
+msgid "post type general name"
+msgstr ""
+
+#: framework/post-types/team.php:16 framework/post-types/testimonial.php:16
+msgid "post type singular name"
+msgstr ""
+
+#: framework/post-types/team.php:17
+msgid "Add New Member"
+msgstr ""
+
+#: framework/post-types/team.php:17
+msgid "member"
+msgstr ""
+
+#: framework/post-types/team.php:18
+msgid "Add New Team Member"
+msgstr ""
+
+#: framework/post-types/team.php:19
+msgid "Edit Team Member"
+msgstr ""
+
+#: framework/post-types/team.php:20
+msgid "New Team Member"
+msgstr ""
+
+#: framework/post-types/team.php:21
+msgid "View Team Member"
+msgstr ""
+
+#: framework/post-types/team.php:22
+msgid "Search Team Members"
+msgstr ""
+
+#: framework/post-types/team.php:23
+msgid "No Team Member found"
+msgstr ""
+
+#: framework/post-types/team.php:24
+msgid "No Team Members found in Trash"
+msgstr ""
+
+#: framework/post-types/team.php:47
+msgid "Departments"
+msgstr ""
+
+#: framework/post-types/team.php:48
+msgid "Department"
+msgstr ""
+
+#: framework/post-types/team.php:49
+msgid "Search Departments"
+msgstr ""
+
+#: framework/post-types/team.php:50
+msgid "Popular Departments"
+msgstr ""
+
+#: framework/post-types/team.php:51
+msgid "All Departments"
+msgstr ""
+
+#: framework/post-types/team.php:54
+msgid "Edit Member Department"
+msgstr ""
+
+#: framework/post-types/team.php:55
+msgid "Update Member Department"
+msgstr ""
+
+#: framework/post-types/team.php:56
+msgid "Add New Member Department"
+msgstr ""
+
+#: framework/post-types/team.php:57
+msgid "New Member Department Name"
+msgstr ""
+
+#: framework/post-types/team.php:58
+msgid "Separate Member Department with commas"
+msgstr ""
+
+#: framework/post-types/team.php:59
+msgid "Add or remove Member Department"
+msgstr ""
+
+#: framework/post-types/team.php:60
+msgid "Choose from the most used Member Department"
+msgstr ""
+
+#: framework/post-types/team.php:76
+msgid "Member Name"
+msgstr ""
+
+#: framework/post-types/team.php:78
+msgid "Member Department"
+msgstr ""
+
+#: framework/post-types/testimonial.php:15
+#: framework/shortcodes/testimonial.php:18
+msgid "Testimonials"
+msgstr ""
+
+#: framework/post-types/testimonial.php:17
+#: framework/post-types/testimonial.php:18
+msgid "Add New Testimonial"
+msgstr ""
+
+#: framework/post-types/testimonial.php:19
+msgid "Edit Testimonial"
+msgstr ""
+
+#: framework/post-types/testimonial.php:20
+msgid "New Testimonial"
+msgstr ""
+
+#: framework/post-types/testimonial.php:21
+msgid "View Testimonial"
+msgstr ""
+
+#: framework/post-types/testimonial.php:22
+msgid "Search Testimonial"
+msgstr ""
+
+#: framework/post-types/testimonial.php:23
+msgid "No Testimonials found"
+msgstr ""
+
+#: framework/post-types/testimonial.php:24
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: framework/post-types/testimonial.php:54
+msgid "Name"
+msgstr ""
+
+#: framework/post-types/testimonial.php:55
+msgid "Company"
+msgstr ""
+
+#: framework/post-types/testimonial.php:56
+msgid "Photo"
+msgstr ""
+
+#: framework/sendmail.php:18 framework/shortcodes/contact_form.php:18
+msgid "Contact Form"
+msgstr ""
+
+#: framework/sendmail.php:26
+msgid "Please enter your first name."
+msgstr ""
+
+#: framework/sendmail.php:29
+msgid "Please enter your last name."
+msgstr ""
+
+#: framework/sendmail.php:35
+msgid "Please enter an e-mail address."
+msgstr ""
+
+#: framework/sendmail.php:40
+msgid "Please enter a valid e-mail address."
+msgstr ""
+
+#: framework/sendmail.php:46
+msgid "Please enter your message. It should have at least 15 characters."
+msgstr ""
+
+#: framework/sendmail.php:65
+msgid "Oh snap! You got an error!"
+msgstr ""
+
+#: framework/shortcodes/contact_form.php:36
+msgid "First Name"
+msgstr ""
+
+#: framework/shortcodes/contact_form.php:37
+msgid "Last Name"
+msgstr ""
+
+#: framework/shortcodes/contact_form.php:39
+msgid "Contact Number"
+msgstr ""
+
+#: framework/shortcodes/contact_form.php:40
+msgid "Enter email"
+msgstr ""
+
+#: framework/shortcodes/contact_form.php:42
+msgid "Sending..."
+msgstr ""
+
+#: framework/shortcodes/contact_form.php:42
+msgid "Send"
+msgstr ""
+
+#: framework/shortcodes/contact_form.php:61
+msgid "Telephone"
+msgstr ""
+
+#: framework/shortcodes/contact_form.php:62
+msgid "E-mail"
+msgstr ""
+
+#: framework/shortcodes/portfolio.php:39
+msgid "All"
+msgstr ""
+
+#: index.php:75
+#, php-format
+msgid ""
+"Please pass to <a href=\"%s\">theme options</a>, in Home Setting tab "
+"organize how you want the layout to come out on the home page."
+msgstr ""
+
+#: page-home.php:16 page.php:76
+msgid "Sorry, this page does not exist."
+msgstr ""
+
+#: search.php:18
+msgid "Search Result"
+msgstr ""
+
+#: search.php:19
+msgid "Search Results Found For"
+msgstr ""
+
+#: search.php:26
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: search.php:27
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:3
+msgid "Type and hit enter..."
+msgstr ""
+
+#: single.php:29
+msgid "Share This"
+msgstr ""
+
+#: single.php:30
+msgid "Tweet This"
+msgstr ""
+
+#: single.php:31
+msgid "Plus This"
+msgstr ""
